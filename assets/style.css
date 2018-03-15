@@ -1,0 +1,20 @@
+.container {
+    padding:30px;
+}
+body    {
+    background-color: pink;
+}
+.card-current-employee {
+    text-align: center;
+    background-color: white;
+}
+
+.jumbotron-fluid {
+    text-align: center;
+    background-color:hotpink;
+}
+
+.btn {
+    background-color: hotpink;
+    border: hotpink;
+}
